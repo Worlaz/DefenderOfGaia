@@ -2,6 +2,7 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Executables
 .vscode
 .vs
 *.VC.db
@@ -12,3 +13,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*DefenderOfGaia_Map_BuiltData.uasset
+Content/FirstPersonBP/Maps/DefenderOfGaia_Map/DefenderOfGaia_Map_BuiltData.uasset
+Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
